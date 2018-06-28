@@ -452,7 +452,7 @@ body.page-header-fixed {
 
 .site-logo {
   float: left;
-  font-size: 23px;
+  font-size: 26px;
   font-weight: 400;
 
   margin-right: 67px;
@@ -763,7 +763,7 @@ body.page-header-fixed {
 }*/
 .reduce-header .site-logo {
 	padding-top: 9px;
-	padding-bottom: 11px;
+	padding-bottom: 9px;
 }
 @media (min-width: 1025px) {
 	.reduce-header .header-navigation > ul > li > a {
@@ -3066,4 +3066,11 @@ Styler Panel
 
 .fancybox-opened {
   z-index: 100001;
+}
+
+/***
+Custom
+***/
+.img-responsive {
+	max-height: 300px;
 }
