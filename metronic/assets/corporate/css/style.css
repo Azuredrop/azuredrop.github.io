@@ -1690,7 +1690,7 @@ Pre-Footer and pre-footer elements
 	background: #272626;
 	color: #fff;
 	font-size: 12px;
-	padding: 15px 0;
+	padding: 12px 0;
 }
 .footer-light {
 	background: #F9F9F9;
@@ -1709,7 +1709,7 @@ Pre-Footer and pre-footer elements
 .footer-light a {
 	color: inherit;
 }
-.footer .padding-top-10 {
+.footer .copyright-footer {
 	opacity: 0.5;
 }
 .footer .list-inline > li:last-child {
@@ -1720,8 +1720,7 @@ Pre-Footer and pre-footer elements
 	padding: 0;
 }
 .footer ul.social-footer {
-	font-size: 18px;
-	padding-top: 5px;
+	font-size: 24px;
 }
 .footer ul.social-footer a {
 	opacity: 0.5;
